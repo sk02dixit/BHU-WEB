@@ -1,0 +1,91 @@
+.my-sec
+{
+	height:200px;
+	background-image:url('../images/hero_2.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+.shiv
+{
+	height:50px;
+	background-color:#cc7926;
+}
+.shiva
+{
+	height:100px;
+	background:orange;
+}
+.as
+{
+	height:400px;
+}
+
+.my-sec-inner
+{
+	background-color:rgba(255,0,0,0.5);
+	/*opacity:0.5; */
+	color:white;
+}
+.smi
+{
+	list-style-type:none;
+	
+}
+.smi li
+{
+	display:inline-block;
+	background-color:white;
+	color:red;
+	padding:10px 15px;
+	margin-right:10px;
+	border-radius:50%;
+	
+}
+.smi li a
+{
+	color:red;
+}
+.a
+{
+	:white;
+}
+.navbar
+{
+	list-style-type:none; 
+	//padding:10px;
+	height:50px;
+	
+	
+}
+.navbar li
+{
+	display:inline;	
+    color:white;
+	//margin-left:5px;
+	padding:10px;
+}
+.one
+{
+height:300px;
+width:250px;
+border:5px solid skyblue;
+box-shadow:20px 20px 20px skyblue;
+}
+.one1
+{
+height:300px;
+width:250px;
+border:1px solid skyblue;
+box-shadow:20px 20px 25px skyblue;
+border-radius:10px 10px 10px 10px;
+}
+.row1
+{
+	height:300px;
+}
+.row3
+{
+    color:white
+}
+
